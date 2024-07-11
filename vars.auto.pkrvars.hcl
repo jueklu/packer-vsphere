@@ -1,0 +1,7 @@
+vsphere_server = "vcsa.vsphere.local"
+vsphere_user = "Administrator@vsphere.local"
+vsphere_password = "my-secure-pw"
+datacenter = "Datacenter"
+cluster = "jkw-cluster-1"
+datastore = "Datastore1"
+network_name = "VM Network"
